@@ -2,8 +2,8 @@ public class Thread {
         // run() method to perform action for thread.   
         public void run()  
         {    
-           int a= 10;  
-           int b=12;  
+           int a= 30;  
+           int b=14;  
            int result = a+b;  
            System.out.println("Thread started running..");  
            System.out.println("Sum of two numbers is: "+ result);  
